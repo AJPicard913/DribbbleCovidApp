@@ -15,6 +15,7 @@
 		091C58BD2481623F00FC48A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 091C58BB2481623F00FC48A9 /* LaunchScreen.storyboard */; };
 		091C58C82481624000FC48A9 /* Covid19_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 091C58C72481624000FC48A9 /* Covid19_appTests.swift */; };
 		091C58D32481624000FC48A9 /* Covid19_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 091C58D22481624000FC48A9 /* Covid19_appUITests.swift */; };
+		095589B524816B7F00141DE6 /* CheckinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095589B424816B7F00141DE6 /* CheckinView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		091C58CE2481624000FC48A9 /* Covid19-appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Covid19-appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		091C58D22481624000FC48A9 /* Covid19_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Covid19_appUITests.swift; sourceTree = "<group>"; };
 		091C58D42481624000FC48A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		095589B424816B7F00141DE6 /* CheckinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckinView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				091C58B02481623E00FC48A9 /* AppDelegate.swift */,
 				091C58B22481623E00FC48A9 /* SceneDelegate.swift */,
 				091C58B42481623E00FC48A9 /* ContentView.swift */,
+				095589B424816B7F00141DE6 /* CheckinView.swift */,
 				091C58B62481623F00FC48A9 /* Assets.xcassets */,
 				091C58BB2481623F00FC48A9 /* LaunchScreen.storyboard */,
 				091C58BE2481623F00FC48A9 /* Info.plist */,
@@ -267,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				095589B524816B7F00141DE6 /* CheckinView.swift in Sources */,
 				091C58B12481623E00FC48A9 /* AppDelegate.swift in Sources */,
 				091C58B32481623E00FC48A9 /* SceneDelegate.swift in Sources */,
 				091C58B52481623E00FC48A9 /* ContentView.swift in Sources */,
